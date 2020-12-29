@@ -1,0 +1,7 @@
+playing1	boys	girles
+playing2	boys	girles
+playing3	boys	girles
+playing4	boys	girles
+playing5	boys	girles
+playing6	boys	girles
+ahmed       aly     andrew
